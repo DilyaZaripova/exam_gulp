@@ -1,0 +1,17 @@
+{
+  "name": "exam",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Dilya"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
