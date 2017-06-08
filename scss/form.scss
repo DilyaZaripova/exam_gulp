@@ -4,7 +4,7 @@
 @import "animate";
 
 %grad{
-	
+	background-color: #48d1a0;
 }
 html,body{
 	width: 100%;
@@ -60,6 +60,7 @@ body{
 		width: 60%;
 		display: block;
 		margin: 0px auto 25px;
+		.text{fill:$l-gray;}
 		.text{fill:$l-gray;}
 		.pi{fill:$color;}
 	}
